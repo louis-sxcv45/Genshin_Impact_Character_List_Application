@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GenshinImpactCharacterListApp" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/dark_golden_rod</item>
+         <item name="colorOnPrimary">@color/black</item>
+
+         <item name="colorSecondary">@color/ecru</item>
+         <item name="colorOnSecondary">@color/black</item>
+
+
+    </style>
+
+    <style name="Theme.GenshinImpactCharacterListApp" parent="Base.Theme.GenshinImpactCharacterListApp" />
+</resources>

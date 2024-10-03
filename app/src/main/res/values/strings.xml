@@ -1,0 +1,275 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Genshin Impact Character</string>
+
+    <string name="name_character">Name Character</string>
+
+    <string name="element">Element</string>
+
+    <string name="nation">Nation</string>
+
+    <string name="gender">Gender</string>
+
+    <string name="weapon">Weapon</string>
+
+    <string name="description">Description</string>
+
+    <string name="about">About</string>
+    <string name="genshin_impact_character">Genshin Impact Character</string>
+    <string name="developer_name">Louis Laskar Ginting</string>
+    <string name="contact">Contact Me in Instagram or My Gmail :</string>
+    <string name="detail_character">Detail Character</string>
+    <string name="affiliation">Affiliation</string>
+    <string name="constellation">Constellation</string>
+    <string name="birthday">Birthday</string>
+    <string name="rarity">Rarity</string>
+    <string name="role">Role</string>
+    <string name="special_dish">Special Dish</string>
+    <string name="gmail">louisginting54@gmail.com</string>
+
+    <string-array name="data_character">
+        <item>Venti</item>
+        <item>Zhongli</item>
+        <item>Raiden Shogun</item>
+        <item>Nahida</item>
+        <item>Furina</item>
+        <item>Mavuika</item>
+        <item>Bennet</item>
+        <item>Arlecchino</item>
+        <item>Eula</item>
+        <item>Hu Tao</item>
+        <item>Kadehara Kazuha</item>
+        <item>Kamisato Ayaka</item>
+        <item>Jean</item>
+        <item>Neuvillette</item>
+        <item>Mualani</item>
+        <item>Kinich</item>
+    </string-array>
+
+    <string-array name="data_element">
+        <item>Anemo</item>
+        <item>Geo</item>
+        <item>Electro</item>
+        <item>Dendro</item>
+        <item>Hydro</item>
+        <item>Pyro</item>
+        <item>Pyro</item>
+        <item>Pyro</item>
+        <item>Cryo</item>
+        <item>Pyro</item>
+        <item>Anemo</item>
+        <item>Cryo</item>
+        <item>Anemo</item>
+        <item>Hydro</item>
+        <item>Hydro</item>
+        <item>Dendro</item>
+    </string-array>
+
+    <string-array name="data_nation">
+        <item>Mondstadt</item>
+        <item>Liyue</item>
+        <item>Inazuma</item>
+        <item>Sumeru</item>
+        <item>Fontaine</item>
+        <item>Natlan</item>
+        <item>Mondstadt</item>
+        <item>Fontaine</item>
+        <item>Mondstadt</item>
+        <item>Liyue</item>
+        <item>Inazuma</item>
+        <item>Inazuma</item>
+        <item>Mondstadt</item>
+        <item>Fontaine</item>
+        <item>Natlan</item>
+        <item>Natlan</item>
+    </string-array>
+
+    <string-array name="data_gender">
+        <item>Male</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="data_weapon">
+        <item>Bow</item>
+        <item>Polearm</item>
+        <item>Polearm</item>
+        <item>Catalyst</item>
+        <item>Sword</item>
+        <item>Claymore</item>
+        <item>Sword</item>
+        <item>Polearm</item>
+        <item>Claymore</item>
+        <item>Polearm</item>
+        <item>Sword</item>
+        <item>Sword</item>
+        <item>Sword</item>
+        <item>Catalyst</item>
+        <item>Catalyst</item>
+        <item>Claymore</item>
+    </string-array>
+
+    <string-array name="description_character">
+        <item>Venti is a playable Anemo character in Genshin Impact. He is a free-spirited, wine-loving bard of Mondstadt, belying his identity as Barbatos, the Anemo Archon.</item>
+        <item>Zhongli is a playable Geo character in Genshin Impact. A consultant of the Wangsheng Funeral Parlor, he is later revealed to be the Geo Archon, Morax, who has decided to experience the world from the perspective of a mortal.</item>
+        <item>The Raiden Shogun is a playable Electro character in Genshin Impact. The Raiden Shogun is comprised of two beings in one body: Ei, the current Electro Archon of Inazuma; and the Shogun, the puppet created by Ei to act as the ruler of Inazuma in her stead.</item>
+        <item>Nahida is a playable Dendro character in Genshin Impact. As Lesser Lord Kusanali, she strives to have a stronger presence in Sumeru now that she has been freed from her extensive confinement in the Sanctuary of Surasthana.</item>
+        <item>Furina de Fontaine is a playable Hydro character in Genshin Impact who can alternate between Pneuma and Ousia alignments. Introduced as the flamboyant and overconfident Hydro Archon, Furina theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant.</item>
+        <item>Mavuika, also known by her Goetic name Haborym, is the God of War and the current Pyro Archon presiding over Natlan. She makes her first appearance during Ignition Teaser: A Name Forged in Flames.</item>
+        <item>Bennett is a playable Pyro character in Genshin Impact. An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadt Adventurers Guild. He is the one and only member of "Benny's Adventure Team," as everyone else left the team after experiencing the constant misfortune that follows him.</item>
+        <item>Arlecchino, also known by her codename "The Knave," is a playable Pyro character in Genshin Impact. She is the Fourth of the Eleven Fatui Harbingers and the current head of the House of the Hearth. She is addressed as "Father" by members of the House, who she calls her "children."</item>
+        <item>Eula Lawrence is a playable Cryo character in Genshin Impact. Although a descendant of the infamous and tyrannical Lawrence Clan, Eula severed her ties with the clan and became the captain of the Reconnaissance Company with the Knights of Favonius.</item>
+        <item>Hu Tao is a playable Pyro character in Genshin Impact. Hu Tao antics and eccentricity belies her role as the 77th Director of the Wangsheng Funeral Parlor and her talent as a poet. Nevertheless, she treats the parlor operations with utmost importance, and holds funeral ceremonies with the highest dignity and solemnity.</item>
+        <item>Kaedehara Kazuha is a playable Anemo character in Genshin Impact. A wandering samurai of the once-famed Kaedehara Clan with an ability to read the sounds of nature, Kazuha is a temporary crewmember of The Crux. Despite being burdened by the many happenings of his past, Kazuha still maintains an easygoing disposition.</item>
+        <item>Kamisato Ayaka is a playable Cryo character in Genshin Impact. She is in charge of the internal and external affairs of the Kamisato Clan and is the younger sister of Kamisato Ayato. Beautiful, dignified, and noble, Ayaka has earned the title Shirasagi Himegimi and is considered a model of perfection in Inazuma.</item>
+        <item>Jean Gunnhildr is a playable Anemo character in Genshin Impact. The older sister of Barbara, and a descendant of the prestigious Gunnhildr Clan, Jean is the Acting Grand Master of the Knights of Favonius. She is always busy handling unrest across Mondstadt and tirelessly working to maintain the City of Freedom.</item>
+        <item>Neuvillette is a playable Pneuma-aligned Hydro character in Genshin Impact. Neuvillette is the Iudex of Fontaine, and the leader of the Marechaussee Phantom. While Neuvillette upholds the rules of the court with utmost reverence, he is quite aloof when dealing with human emotions and often distances himself from the public eye. Despite his human appearance, he is actually the Hydro Dragon Sovereign.</item>
+        <item>Mualani is a playable Hydro character in Genshin Impact. Being a guide, a surfer, and a watersports shop owner for the People of the Springs who bears the Ancient Name "Umoja", Mualani is an active and sweet person, and she is always able to satisfy her clients.</item>
+        <item>Kinich is a playable Dendro character in Genshin Impact. A Saurian Hunter from the Scions of the Canopy with the Ancient Name "Malipo", Kinich is a taciturn individual who has a knack for calculating the price of any request — even wetwork — due to his utilitarian philosophy.</item>
+    </string-array>
+
+    <string-array name="image_character">
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Character_Venti_Full_Wish.png/revision/latest?cb=20220507131746</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Character_Zhongli_Full_Wish.png/revision/latest?cb=20220507161902</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/a/a3/Character_Raiden_Shogun_Full_Wish.png/revision/latest?cb=20220507154003</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Character_Nahida_Full_Wish.png/revision/latest?cb=20221102032214</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/9/94/Character_Furina_Full_Wish.png/revision/latest?cb=20231108064320</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/1/17/NPC_Mavuika.png/revision/latest/scale-to-width-down/1000?cb=20240830161309</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/2/27/Character_Bennett_Full_Wish.png/revision/latest?cb=20220507132108</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/f/f8/Character_Arlecchino_Full_Wish.png/revision/latest?cb=20240424142733</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/6/6d/Character_Eula_Full_Wish.png/revision/latest?cb=20240525000817</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/5/59/Character_Hu_Tao_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20220507160922</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/5/57/Character_Kaedehara_Kazuha_Full_Wish.png/revision/latest?cb=20220507131548</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/d/d0/Character_Kamisato_Ayaka_Full_Wish.png/revision/latest?cb=20221014024207</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/d/d6/Character_Jean_Full_Wish.png/revision/latest?cb=20221014022733</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/5/5e/Character_Neuvillette_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20240119144458</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Character_Mualani_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20240913071517</item>
+        <item>https://static.wikia.nocookie.net/gensin-impact/images/9/95/Character_Kinich_Full_Wish.png/revision/latest/scale-to-width-down/1000?cb=20240919141401</item>
+    </string-array>
+
+    <string-array name="affiliation_character">
+        <item>Mondstadt</item>
+        <item>Liyue</item>
+        <item>Inazuma</item>
+        <item>Sumeru</item>
+        <item>Fontaine</item>
+        <item>Natlan</item>
+        <item>Mondstadt</item>
+        <item>Fatui</item>
+        <item>Mondstadt</item>
+        <item>Liyue</item>
+        <item>Inazuma</item>
+        <item>Inazuma</item>
+        <item>Mondstadt</item>
+        <item>Fontaine</item>
+        <item>People of the Springs</item>
+        <item>Scions of the Canopy</item>
+    </string-array>
+
+    <string-array name="constellation_character">
+        <item>Carmen Dei</item>
+        <item>Lapis Dei</item>
+        <item>Imperatrix Umbrosa</item>
+        <item>Sapientia Oromasdis</item>
+        <item>Fons Draconis</item>
+        <item>Ignis Vindicet</item>
+        <item>Rota Calamitas</item>
+        <item>Furies End</item>
+        <item>Aphros Delos</item>
+        <item>Homo Arcana</item>
+        <item>Acer Palmatum</item>
+        <item>Grus Nivis</item>
+        <item>Leo Minor</item>
+        <item>Hydor Crystallo</item>
+        <item>Umoja Nyeri</item>
+        <item>Malipo Terribus</item>
+    </string-array>
+
+    <string-array name="birthday_character">
+        <item>June 16</item>
+        <item>December 31</item>
+        <item>June 26</item>
+        <item>October 27</item>
+        <item>February 9</item>
+        <item>August 4</item>
+        <item>February 29</item>
+        <item>April 12</item>
+        <item>October 25</item>
+        <item>July 15</item>
+        <item>October 29</item>
+        <item>September 28</item>
+        <item>March 14</item>
+        <item>July 21</item>
+        <item>April 8</item>
+        <item>January 2</item>
+    </string-array>
+
+    <string-array name="rarity_character">
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="role_character">
+        <item>Support/DPS</item>
+        <item>Support</item>
+        <item>Burst DPS</item>
+        <item>Support</item>
+        <item>Support/DPS</item>
+        <item>Main DPS</item>
+        <item>Support</item>
+        <item>DPS</item>
+        <item>Main DPS</item>
+        <item>Main DPS</item>
+        <item>Support/DPS</item>
+        <item>Main DPS</item>
+        <item>Support</item>
+        <item>Main DPS</item>
+        <item>Main DPS</item>
+        <item>Main DPS</item>
+    </string-array>
+
+    <string-array name="special_dish_character">
+        <item>A Buoyant Breeze</item> <!-- Venti -->
+        <item>Slow-Cooked Bamboo Shoot Soup</item> <!-- Zhongli -->
+        <item>Delicacies of the Fallen Nation</item> <!-- Raiden Shogun -->
+        <item>Halvamazd</item> <!-- Nahida -->
+        <item>Surprise Generation</item> <!-- Furina -->
+        <item>Scorched Skewer</item> <!-- Mavuika -->
+        <item>Teyvat Charred Steak</item> <!-- Bennett -->
+        <item>Shattered Stars</item> <!-- Arlecchino -->
+        <item>Stormcrest Pie</item> <!-- Eula -->
+        <item>Ghostly March</item> <!-- Hu Tao -->
+        <item>All-Weather Beauty</item> <!-- Kaedehara Kazuha -->
+        <item>Snow on the Hearth</item> <!-- Kamisato Ayaka -->
+        <item>Invigorating Pizza</item> <!-- Jean -->
+        <item>Supreme Hotpot</item> <!-- Neuvillette -->
+        <item>Tropical Wave</item> <!-- Mualani -->
+        <item>Forest Scented Roast</item> <!-- Kinich -->
+    </string-array>
+</resources>
